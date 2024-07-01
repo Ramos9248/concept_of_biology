@@ -1,0 +1,2466 @@
+{
+    "doc_name": ".\\data\\ConceptsofBiology-WEB.pdf",
+    "total_pages": 615,
+    "data": [
+        {
+            "page_num": 1,
+            "text": ""
+        },
+        {
+            "page_num": 2,
+            "text": ""
+        },
+        {
+            "page_num": 3,
+            "text": "Concepts of Biology\nSENIOR CONTRIBUTING AUTHORS\nSAMANTHA FOWLER, CLAYTON STATE UNIVERSITY\nREBECCA ROUSH, SANDHILLS COMMUNITY COLLEGE\nJAMES WISE, HAMPTON UNIVERSITY"
+        },
+        {
+            "page_num": 4,
+            "text": "OpenStax\nRice University\n6100 Main Street MS-375\nHouston, Texas 77005\nTo learn more about OpenStax, visit https://openstax.org.\nIndividual print copies and bulk orders can be purchased through our website.\n©2023 Rice University. Textbook content produced by OpenStax is licensed under a Creative Commons\nAttribution 4.0 International License (CC BY 4.0). Under this license, any user of this textbook or the textbook\ncontents herein must provide proper attribution as follows:\n- If you redistribute this textbook in a digital format (including but not limited to PDF and HTML), then you\nmust retain on every page the following attribution:\n“Access for free at openstax.org.”\n- If you redistribute this textbook in a print format, then you must include on every physical page the\nfollowing attribution:\n“Access for free at openstax.org.”\n- If you redistribute part of this textbook, then you must retain in every digital format page view (including\nbut not limited to PDF and HTML) and on every physical printed page the following attribution:\n“Access for free at openstax.org.”\n- If you use this textbook as a bibliographic reference, please include\nhttps://openstax.org/details/books/concepts-biology in your citation.\nFor questions regarding this licensing, please contact support@openstax.org.\nTrademarks\nThe OpenStax name, OpenStax logo, OpenStax book covers, OpenStax CNX name, OpenStax CNX logo,\nOpenStax Tutor name, Openstax Tutor logo, Connexions name, Connexions logo, Rice University name, and\nRice University logo are not subject to the license and may not be reproduced without the prior and express\nwritten consent of Rice University.\nHARDCOVER BOOK ISBN-13 978-1-938168-11-6\nB&W PAPERBACK BOOK ISBN-13 978-1-50669-653-9\nDIGITAL VERSION ISBN-13 978-1-947172-03-6\nORIGINAL PUBLICATION YEAR 2013\n1 2 3 4 5 6 7 8 9 10 RS 23 13"
+        },
+        {
+            "page_num": 5,
+            "text": "OPENSTAX\nOpenStax provides free, peer-reviewed, openly licensed textbooks for introductory college and Advanced\nPlacement® courses and low-cost, personalized courseware that helps students learn. A nonprofit ed tech\ninitiative based at Rice University, we’re committed to helping students access the tools they need to complete\ntheir courses and meet their educational goals.\nRICE UNIVERSITY\nOpenStax is an initiative of Rice University. As a leading research university with a distinctive commitment to\nundergraduate education, Rice University aspires to path-breaking research, unsurpassed teaching, and\ncontributions to the betterment of our world. It seeks to fulfill this mission by cultivating a diverse community\nof learning and discovery that produces leaders across the spectrum of human endeavor.\nPHILANTHROPIC SUPPORT\nOpenStax is grateful for the generous philanthropic partners who advance our mission to improve educational\naccess and learning for everyone. To see the impact of our supporter community and our most updated list of\npartners, please visit openstax.org/impact.\nArnold Ventures Burt and Deedee McMurtry\nChan Zuckerberg Initiative Michelson 20MM Foundation\nChegg, Inc. National Science Foundation\nArthur and Carlyse Ciocca Charitable Foundation The Open Society Foundations\nDigital Promise Jumee Yhu and David E. Park III\nAnn and John Doerr Brian D. Patterson USA-International Foundation\nBill & Melinda Gates Foundation The Bill and Stephanie Sick Fund\nGirard Foundation Steven L. Smith & Diana T. Go\nGoogle Inc. Stand Together\nThe William and Flora Hewlett Foundation Robin and Sandy Stuart Foundation\nThe Hewlett-Packard Company The Stuart Family Foundation\nIntel Inc. Tammy and Guillermo Treviño\nRusty and John Jaggers Valhalla Charitable Foundation\nThe Calvin K. Kazanjian Economics Foundation White Star Education Foundation\nCharles Koch Foundation Schmidt Futures\nLeon Lowenstein Foundation, Inc. William Marsh Rice University\nThe Maxfield Foundation"
+        },
+        {
+            "page_num": 6,
+            "text": "Your Journey to Biology Success\nOpenStax Kinetic will help you uncover who you are as a\nscience learner and provide helpful personalized feedback\nas you explore your options for a future in science.\nThroughout the year, participate in a range of free\nresearch studies on Kinetic to deepen your:\n• Foundational science knowledge\n• Early science and math experiences\n• STEM interests and matching careers\n• Career and vocational interests\nTake part in fun, researcher-created activities\nto explore biological concepts like RNA,\ncancer, and the cell cycle!\nParticipation supports important learning\nresearch to help improve digital learning\nnationwide. All while giving you a chance\nat earning amazing prizes.\nLearn while you earn\nwith OpenStax Kinetic!\nGet involved, get learning, and get\nrewarded today with OpenStax Kinetic!\nLearn with us today!\nopenstax.org/kinetic"
+        },
+        {
+            "page_num": 7,
+            "text": "Contents\nCHAPTER 1\nCHAPTER 2\nCHAPTER 3"
+        },
+        {
+            "page_num": 8,
+            "text": "CHAPTER 4\nCHAPTER 5\nCHAPTER 6\nCHAPTER 7\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 9,
+            "text": "CHAPTER 8\nCHAPTER 9\nCHAPTER 10"
+        },
+        {
+            "page_num": 10,
+            "text": "CHAPTER 11\nCHAPTER 12\nCHAPTER 13\nCHAPTER 14\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 11,
+            "text": "CHAPTER 15\nCHAPTER 16\nCHAPTER 17"
+        },
+        {
+            "page_num": 12,
+            "text": "CHAPTER 18\nCHAPTER 19\nCHAPTER 20\nCHAPTER 21\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 13,
+            "text": "AppendixA\nAppendixB\nAppendixC"
+        },
+        {
+            "page_num": 14,
+            "text": "Access for free at openstax.org"
+        },
+        {
+            "page_num": 15,
+            "text": "Preface 1"
+        },
+        {
+            "page_num": 16,
+            "text": "2 Preface\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 17,
+            "text": "Preface 3"
+        },
+        {
+            "page_num": 18,
+            "text": "4 Preface\nVisit ouracademic integrity slider(https://www.openstax.org/\nr/academic-integrity-slider).\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 19,
+            "text": "CHAPTER 1\nIntroduction to Biology\nFIGURE1.1\nCHAPTER OUTLINE\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 20,
+            "text": "6 1 • Introduction to Biology\nFIGURE1.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 21,
+            "text": "1.1 • Themes and Concepts of Biology 7\nFIGURE1.3\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 22,
+            "text": "8 1 • Introduction to Biology\nFIGURE1.4\nFIGURE1.5\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 23,
+            "text": "1.1 • Themes and Concepts of Biology 9\nFIGURE1.6"
+        },
+        {
+            "page_num": 24,
+            "text": "10 1 • Introduction to Biology\nFIGURE1.7\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 25,
+            "text": "1.1 • Themes and Concepts of Biology 11\nVISUAL CONNECTION\nFIGURE1.8"
+        },
+        {
+            "page_num": 26,
+            "text": "12 1 • Introduction to Biology\nFIGURE1.9\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 27,
+            "text": "1.1 • Themes and Concepts of Biology 13\nFIGURE1.10\nEVOLUTION CONNECTION"
+        },
+        {
+            "page_num": 28,
+            "text": "14 1 • Introduction to Biology\nFIGURE1.11\nFIGURE1.12\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 29,
+            "text": "1.1 • Themes and Concepts of Biology 15\nCAREER CONNECTION\nFIGURE1.13"
+        },
+        {
+            "page_num": 30,
+            "text": "16 1 • Introduction to Biology\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 31,
+            "text": "1.2 • The Process of Science 17\nFIGURE1.14\nFIGURE1.15"
+        },
+        {
+            "page_num": 32,
+            "text": "18 1 • Introduction to Biology\nFIGURE1.16\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 33,
+            "text": "1.2 • The Process of Science 19\nFIGURE1.17"
+        },
+        {
+            "page_num": 34,
+            "text": "20 1 • Introduction to Biology\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 35,
+            "text": "1.2 • The Process of Science 21\nVISUAL CONNECTION\nFIGURE1.18"
+        },
+        {
+            "page_num": 36,
+            "text": "22 1 • Introduction to Biology\nFIGURE1.19\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 37,
+            "text": "1.2 • The Process of Science 23"
+        },
+        {
+            "page_num": 38,
+            "text": "24 1 • Key Terms\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 39,
+            "text": "1 • Visual Connection Questions 25"
+        },
+        {
+            "page_num": 40,
+            "text": "26 1 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 41,
+            "text": "CHAPTER 2\nChemistry of Life\nFIGURE2.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 42,
+            "text": "28 2 • Chemistry of Life\nLEARNING OBJECTIVES\nFIGURE2.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 43,
+            "text": "2.1 • The Building Blocks of Molecules 29"
+        },
+        {
+            "page_num": 44,
+            "text": "30 2 • Chemistry of Life\nVISUAL CONNECTION\nFIGURE2.3\nEVOLUTION CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 45,
+            "text": "2.1 • The Building Blocks of Molecules 31\nFIGURE2.4\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 46,
+            "text": "32 2 • Chemistry of Life\nFIGURE2.5\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 47,
+            "text": "2.1 • The Building Blocks of Molecules 33\nFIGURE2.6"
+        },
+        {
+            "page_num": 48,
+            "text": "34 2 • Chemistry of Life\nFIGURE2.7\nCAREER CONNECTION\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 49,
+            "text": "2.2 • Water 35\nFIGURE2.8"
+        },
+        {
+            "page_num": 50,
+            "text": "36 2 • Chemistry of Life\nFIGURE2.9\nLINK TO LEARNING\nFIGURE2.10\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 51,
+            "text": "2.2 • Water 37\nFIGURE2.11\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 52,
+            "text": "38 2 • Chemistry of Life\nFIGURE2.12\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 53,
+            "text": "2.3 • Biological Molecules 39\nLEARNING OBJECTIVES\nFIGURE2.13"
+        },
+        {
+            "page_num": 54,
+            "text": "40 2 • Chemistry of Life\nFIGURE2.14\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 55,
+            "text": "2.3 • Biological Molecules 41\nFIGURE2.15"
+        },
+        {
+            "page_num": 56,
+            "text": "42 2 • Chemistry of Life\nFIGURE2.16\nCAREER CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 57,
+            "text": "2.3 • Biological Molecules 43\nFIGURE2.17\nFIGURE2.18"
+        },
+        {
+            "page_num": 58,
+            "text": "44 2 • Chemistry of Life\nFIGURE2.19\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 59,
+            "text": "2.3 • Biological Molecules 45\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 60,
+            "text": "46 2 • Chemistry of Life\nFIGURE2.20\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 61,
+            "text": "2.3 • Biological Molecules 47\nEVOLUTION CONNECTION"
+        },
+        {
+            "page_num": 62,
+            "text": "48 2 • Chemistry of Life\nFIGURE2.21\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 63,
+            "text": "2.3 • Biological Molecules 49\nFIGURE2.22\nFIGURE2.23"
+        },
+        {
+            "page_num": 64,
+            "text": "50 2 • Chemistry of Life\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 65,
+            "text": "2 • Key Terms 51"
+        },
+        {
+            "page_num": 66,
+            "text": "52 2 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 67,
+            "text": "2 • Visual Connection Questions 53"
+        },
+        {
+            "page_num": 68,
+            "text": "54 2 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 69,
+            "text": "CHAPTER 3\nCell Structure and Function\nFIGURE3.1\nCHAPTER OUTLINE\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 70,
+            "text": "56 3 • Cell Structure and Function\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 71,
+            "text": "3.1 • How Cells Are Studied 57\nFIGURE3.2"
+        },
+        {
+            "page_num": 72,
+            "text": "58 3 • Cell Structure and Function\nFIGURE3.3\nCAREER CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 73,
+            "text": "3.2 • Comparing Prokaryotic and Eukaryotic Cells 59\nFIGURE3.4\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 74,
+            "text": "60 3 • Cell Structure and Function\nFIGURE3.5\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 75,
+            "text": "3.3 • Eukaryotic Cells 61\nFIGURE3.6\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 76,
+            "text": "62 3 • Cell Structure and Function\nVISUAL CONNECTION\nFIGURE3.7\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 77,
+            "text": "3.3 • Eukaryotic Cells 63\nFIGURE3.8"
+        },
+        {
+            "page_num": 78,
+            "text": "64 3 • Cell Structure and Function\nFIGURE3.9\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 79,
+            "text": "3.3 • Eukaryotic Cells 65\nFIGURE3.10"
+        },
+        {
+            "page_num": 80,
+            "text": "66 3 • Cell Structure and Function\nFIGURE3.11\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 81,
+            "text": "3.3 • Eukaryotic Cells 67\nFIGURE3.12"
+        },
+        {
+            "page_num": 82,
+            "text": "68 3 • Cell Structure and Function\nVISUAL CONNECTION\nFIGURE3.13\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 83,
+            "text": "3.3 • Eukaryotic Cells 69\nFIGURE3.14"
+        },
+        {
+            "page_num": 84,
+            "text": "70 3 • Cell Structure and Function\nFIGURE3.15\nEVOLUTION CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 85,
+            "text": "3.3 • Eukaryotic Cells 71\nFIGURE3.16"
+        },
+        {
+            "page_num": 86,
+            "text": "72 3 • Cell Structure and Function\nFIGURE3.17\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 87,
+            "text": "3.3 • Eukaryotic Cells 73\nPresent\nPresent\nCell Present in in\nFunction in Plant\nComponent Prokaryotes? Animal\nCells?\nCells?\nTABLE3.1"
+        },
+        {
+            "page_num": 88,
+            "text": "74 3 • Cell Structure and Function\nPresent\nPresent\nCell Present in in\nFunction in Plant\nComponent Prokaryotes? Animal\nCells?\nCells?\nTABLE3.1\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 89,
+            "text": "3.4 • The Cell Membrane 75\nFIGURE3.18\nEVOLUTION CONNECTION"
+        },
+        {
+            "page_num": 90,
+            "text": "76 3 • Cell Structure and Function\nFIGURE3.19\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 91,
+            "text": "3.5 • Passive Transport 77\nFIGURE3.20"
+        },
+        {
+            "page_num": 92,
+            "text": "78 3 • Cell Structure and Function\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 93,
+            "text": "3.5 • Passive Transport 79\nFIGURE3.21\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 94,
+            "text": "80 3 • Cell Structure and Function\nVISUAL CONNECTION\nFIGURE3.22\nFIGURE3.23\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 95,
+            "text": "3.6 • Active Transport 81\nFIGURE3.24"
+        },
+        {
+            "page_num": 96,
+            "text": "82 3 • Cell Structure and Function\nFIGURE3.25\nFIGURE3.26\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 97,
+            "text": "3.6 • Active Transport 83\nLINK TO LEARNING\nFIGURE3.27"
+        },
+        {
+            "page_num": 98,
+            "text": "84 3 • Key Terms\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 99,
+            "text": "3 • Chapter Summary 85"
+        },
+        {
+            "page_num": 100,
+            "text": "86 3 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 101,
+            "text": "3 • Visual Connection Questions 87"
+        },
+        {
+            "page_num": 102,
+            "text": "88 3 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 103,
+            "text": "CHAPTER 4\nHow Cells Obtain Energy\nFIGURE4.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 104,
+            "text": "90 4 • How Cells Obtain Energy\nLEARNING OBJECTIVES\nFIGURE4.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 105,
+            "text": "4.1 • Energy and Metabolism 91\nFIGURE4.3"
+        },
+        {
+            "page_num": 106,
+            "text": "92 4 • How Cells Obtain Energy\nFIGURE4.4\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 107,
+            "text": "4.1 • Energy and Metabolism 93\nFIGURE4.5"
+        },
+        {
+            "page_num": 108,
+            "text": "94 4 • How Cells Obtain Energy\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 109,
+            "text": "4.1 • Energy and Metabolism 95\nVISUAL CONNECTION\nFIGURE4.6\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 110,
+            "text": "96 4 • How Cells Obtain Energy\nFIGURE4.7\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 111,
+            "text": "4.1 • Energy and Metabolism 97\nFIGURE4.8"
+        },
+        {
+            "page_num": 112,
+            "text": "98 4 • How Cells Obtain Energy\nFIGURE4.9\nCAREER CONNECTION\nFIGURE4.10\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 113,
+            "text": "4.1 • Energy and Metabolism 99\nFIGURE4.11"
+        },
+        {
+            "page_num": 114,
+            "text": "100 4 • How Cells Obtain Energy\nLEARNING OBJECTIVES\nFIGURE4.12\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 115,
+            "text": "4.3 • Citric Acid Cycle and Oxidative Phosphorylation 101\nFIGURE4.13\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 116,
+            "text": "102 4 • How Cells Obtain Energy\nFIGURE4.14\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 117,
+            "text": "4.3 • Citric Acid Cycle and Oxidative Phosphorylation 103\nVISUAL CONNECTION\nFIGURE4.15"
+        },
+        {
+            "page_num": 118,
+            "text": "104 4 • How Cells Obtain Energy\nCAREER CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 119,
+            "text": "4.4 • Fermentation 105\nLEARNING OBJECTIVES\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 120,
+            "text": "106 4 • How Cells Obtain Energy\nVISUAL CONNECTION\nFIGURE4.16\nFIGURE4.17\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 121,
+            "text": "4.4 • Fermentation 107\nFIGURE4.18\nFIGURE4.19"
+        },
+        {
+            "page_num": 122,
+            "text": "108 4 • How Cells Obtain Energy\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 123,
+            "text": "4.5 • Connections to Other Metabolic Pathways 109\nFIGURE4.20\nEVOLUTION CONNECTION"
+        },
+        {
+            "page_num": 124,
+            "text": "110 4 • Key Terms\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 125,
+            "text": "4 • Chapter Summary 111"
+        },
+        {
+            "page_num": 126,
+            "text": "112 4 • Visual Connection Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 127,
+            "text": "4 • Critical Thinking Questions 113"
+        },
+        {
+            "page_num": 128,
+            "text": "114 4 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 129,
+            "text": "CHAPTER 5\nPhotosynthesis\nFIGURE5.1\nCHAPTER OUTLINE\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 130,
+            "text": "116 5 • Photosynthesis\nLINK TO LEARNING\nFIGURE5.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 131,
+            "text": "5.1 • Overview of Photosynthesis 117\nFIGURE5.3\nEVERYDAY CONNECTION\nFIGURE5.4"
+        },
+        {
+            "page_num": 132,
+            "text": "118 5 • Photosynthesis\nFIGURE5.5\nFIGURE5.6\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 133,
+            "text": "5.1 • Overview of Photosynthesis 119\nVISUAL CONNECTION\nFIGURE5.7"
+        },
+        {
+            "page_num": 134,
+            "text": "120 5 • Photosynthesis\nLEARNING OBJECTIVES\nFIGURE5.8\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 135,
+            "text": "5.2 • The Light-Dependent Reactions of Photosynthesis 121\nFIGURE5.9\nFIGURE5.10"
+        },
+        {
+            "page_num": 136,
+            "text": "122 5 • Photosynthesis\nFIGURE5.11\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 137,
+            "text": "5.2 • The Light-Dependent Reactions of Photosynthesis 123\nFIGURE5.12"
+        },
+        {
+            "page_num": 138,
+            "text": "124 5 • Photosynthesis\nFIGURE5.13\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 139,
+            "text": "5.3 • The Calvin Cycle 125\nFIGURE5.14"
+        },
+        {
+            "page_num": 140,
+            "text": "126 5 • Photosynthesis\nFIGURE5.15\nLINK TO LEARNING\nEVOLUTION CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 141,
+            "text": "5.3 • The Calvin Cycle 127\nFIGURE5.16\nFIGURE5.17"
+        },
+        {
+            "page_num": 142,
+            "text": "128 5 • Photosynthesis\nFIGURE5.18\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 143,
+            "text": "5 • Key Terms 129"
+        },
+        {
+            "page_num": 144,
+            "text": "130 5 • Visual Connection Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 145,
+            "text": "5 • Critical Thinking Questions 131"
+        },
+        {
+            "page_num": 146,
+            "text": "132 5 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 147,
+            "text": "CHAPTER 6\nReproduction at the Cellular Level\nFIGURE6.1\nCHAPTER OUTLINE\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 148,
+            "text": "134 6 • Reproduction at the Cellular Level\nFIGURE6.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 149,
+            "text": "6.2 • The Cell Cycle 135\nLEARNING OBJECTIVES\nFIGURE6.3"
+        },
+        {
+            "page_num": 150,
+            "text": "136 6 • Reproduction at the Cellular Level\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 151,
+            "text": "6.2 • The Cell Cycle 137\nVISUAL CONNECTION\nFIGURE6.4"
+        },
+        {
+            "page_num": 152,
+            "text": "138 6 • Reproduction at the Cellular Level\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 153,
+            "text": "6.2 • The Cell Cycle 139\nFIGURE6.5\nFIGURE6.6"
+        },
+        {
+            "page_num": 154,
+            "text": "140 6 • Reproduction at the Cellular Level\nFIGURE6.7\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 155,
+            "text": "6.3 • Cancer and the Cell Cycle 141\nLINK TO LEARNING\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 156,
+            "text": "142 6 • Reproduction at the Cellular Level\nFIGURE6.8\nLINK TO LEARNING\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 157,
+            "text": "6.4 • Prokaryotic Cell Division 143"
+        },
+        {
+            "page_num": 158,
+            "text": "144 6 • Reproduction at the Cellular Level\nFIGURE6.9\nEVOLUTION CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 159,
+            "text": "6.4 • Prokaryotic Cell Division 145\nSeparation of\nStructure of genetic\nDivision of nuclear material daughter\nmaterial\ncells\nTABLE6.1"
+        },
+        {
+            "page_num": 160,
+            "text": "146 6 • Key Terms\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 161,
+            "text": "6 • Chapter Summary 147"
+        },
+        {
+            "page_num": 162,
+            "text": "148 6 • Visual Connection Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 163,
+            "text": "6 • Critical Thinking Questions 149"
+        },
+        {
+            "page_num": 164,
+            "text": "150 6 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 165,
+            "text": "CHAPTER 7\nThe Cellular Basis of Inheritance\nFIGURE7.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 166,
+            "text": "152 7 • The Cellular Basis of Inheritance\nLEARNING OBJECTIVES\nEVOLUTION CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 167,
+            "text": "7.1 • Sexual Reproduction 153"
+        },
+        {
+            "page_num": 168,
+            "text": "154 7 • The Cellular Basis of Inheritance\nVISUAL CONNECTION\nFIGURE7.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 169,
+            "text": "7.2 • Meiosis 155\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 170,
+            "text": "156 7 • The Cellular Basis of Inheritance\nFIGURE7.3\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 171,
+            "text": "7.2 • Meiosis 157\nFIGURE7.4"
+        },
+        {
+            "page_num": 172,
+            "text": "158 7 • The Cellular Basis of Inheritance\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 173,
+            "text": "7.2 • Meiosis 159\nFIGURE7.5"
+        },
+        {
+            "page_num": 174,
+            "text": "160 7 • The Cellular Basis of Inheritance\nFIGURE7.6\nLINK TO LEARNING\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 175,
+            "text": "7.3 • Variations in Meiosis 161\nFIGURE7.7\nCAREER CONNECTION"
+        },
+        {
+            "page_num": 176,
+            "text": "162 7 • The Cellular Basis of Inheritance\nFIGURE7.8\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 177,
+            "text": "7.3 • Variations in Meiosis 163\nFIGURE7.9\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 178,
+            "text": "164 7 • The Cellular Basis of Inheritance\nFIGURE7.10\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 179,
+            "text": "7.3 • Variations in Meiosis 165\nFIGURE7.11\nEVOLUTION CONNECTION"
+        },
+        {
+            "page_num": 180,
+            "text": "166 7 • The Cellular Basis of Inheritance\nFIGURE7.12\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 181,
+            "text": "7 • Key Terms 167"
+        },
+        {
+            "page_num": 182,
+            "text": "168 7 • Visual Connection Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 183,
+            "text": "7 • Critical Thinking Questions 169"
+        },
+        {
+            "page_num": 184,
+            "text": "170 7 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 185,
+            "text": "CHAPTER 8\nPatterns of Inheritance\nFIGURE8.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 186,
+            "text": "172 8 • Patterns of Inheritance\nLEARNING OBJECTIVES\nFIGURE8.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 187,
+            "text": "8.1 • Mendel’s Experiments 173"
+        },
+        {
+            "page_num": 188,
+            "text": "174 8 • Patterns of Inheritance\nFIGURE8.3\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 189,
+            "text": "8.1 • Mendel’s Experiments 175\nFIGURE8.4"
+        },
+        {
+            "page_num": 190,
+            "text": "176 8 • Patterns of Inheritance\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 191,
+            "text": "8.2 • Laws of Inheritance 177\nFIGURE8.5\nHomozygous Heterozygous Homozygous\nTABLE8.1"
+        },
+        {
+            "page_num": 192,
+            "text": "178 8 • Patterns of Inheritance\nFIGURE8.6\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 193,
+            "text": "8.2 • Laws of Inheritance 179\nFIGURE8.7"
+        },
+        {
+            "page_num": 194,
+            "text": "180 8 • Patterns of Inheritance\nFIGURE8.8\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 195,
+            "text": "8.2 • Laws of Inheritance 181\nVISUAL CONNECTION\nFIGURE8.9"
+        },
+        {
+            "page_num": 196,
+            "text": "182 8 • Patterns of Inheritance\nVISUAL CONNECTION\nFIGURE8.10\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 197,
+            "text": "8.3 • Extensions of the Laws of Inheritance 183\nFIGURE8.11\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 198,
+            "text": "184 8 • Patterns of Inheritance\nFIGURE8.12\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 199,
+            "text": "8.3 • Extensions of the Laws of Inheritance 185\nFIGURE8.13"
+        },
+        {
+            "page_num": 200,
+            "text": "186 8 • Patterns of Inheritance\nFIGURE8.14\nEVOLUTION CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 201,
+            "text": "8.3 • Extensions of the Laws of Inheritance 187\nFIGURE8.15"
+        },
+        {
+            "page_num": 202,
+            "text": "188 8 • Patterns of Inheritance\nVISUAL CONNECTION\nFIGURE8.16\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 203,
+            "text": "8.3 • Extensions of the Laws of Inheritance 189\nFIGURE8.17"
+        },
+        {
+            "page_num": 204,
+            "text": "190 8 • Patterns of Inheritance\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 205,
+            "text": "8.3 • Extensions of the Laws of Inheritance 191\nFIGURE8.18"
+        },
+        {
+            "page_num": 206,
+            "text": "192 8 • Key Terms\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 207,
+            "text": "8 • Visual Connection Questions 193"
+        },
+        {
+            "page_num": 208,
+            "text": "194 8 • Review Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 209,
+            "text": "8 • Critical Thinking Questions 195"
+        },
+        {
+            "page_num": 210,
+            "text": "196 8 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 211,
+            "text": "CHAPTER 9\nMolecular Biology\nFIGURE9.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 212,
+            "text": "198 9 • Molecular Biology\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 213,
+            "text": "9.1 • The Structure of DNA 199\nFIGURE9.2"
+        },
+        {
+            "page_num": 214,
+            "text": "200 9 • Molecular Biology\nFIGURE9.3\nFIGURE9.4\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 215,
+            "text": "9.1 • The Structure of DNA 201\nFIGURE9.5\nFIGURE9.6"
+        },
+        {
+            "page_num": 216,
+            "text": "202 9 • Molecular Biology\nFIGURE9.7\nLINK TO LEARNING\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 217,
+            "text": "9.2 • DNA Replication 203\nFIGURE9.8"
+        },
+        {
+            "page_num": 218,
+            "text": "204 9 • Molecular Biology\nFIGURE9.9\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 219,
+            "text": "9.2 • DNA Replication 205\nVISUAL CONNECTION\nFIGURE9.10"
+        },
+        {
+            "page_num": 220,
+            "text": "206 9 • Molecular Biology\nFIGURE9.11\nFIGURE9.12\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 221,
+            "text": "9.2 • DNA Replication 207\nProperty Prokaryotes Eukaryotes\nTABLE9.1\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 222,
+            "text": "208 9 • Molecular Biology\nFIGURE9.13\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 223,
+            "text": "9.3 • Transcription 209\nLEARNING OBJECTIVES\nFIGURE9.14"
+        },
+        {
+            "page_num": 224,
+            "text": "210 9 • Molecular Biology\nFIGURE9.15\nFIGURE9.16\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 225,
+            "text": "9.3 • Transcription 211\nFIGURE9.17\nFIGURE9.18"
+        },
+        {
+            "page_num": 226,
+            "text": "212 9 • Molecular Biology\nLEARNING OBJECTIVES\nFIGURE9.19\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 227,
+            "text": "9.4 • Translation 213\nFIGURE9.20"
+        },
+        {
+            "page_num": 228,
+            "text": "214 9 • Molecular Biology\nFIGURE9.21\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 229,
+            "text": "9.5 • How Genes Are Regulated 215\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 230,
+            "text": "216 9 • Molecular Biology\nFIGURE9.22\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 231,
+            "text": "9.5 • How Genes Are Regulated 217\nProkaryotic organisms Eukaryotic organisms\nTABLE9.2\nEVOLUTION CONNECTION"
+        },
+        {
+            "page_num": 232,
+            "text": "218 9 • Molecular Biology\nFIGURE9.23\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 233,
+            "text": "9 • Key Terms 219"
+        },
+        {
+            "page_num": 234,
+            "text": "220 9 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 235,
+            "text": "9 • Visual Connection Questions 221"
+        },
+        {
+            "page_num": 236,
+            "text": "222 9 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 237,
+            "text": "CHAPTER 10\nBiotechnology\nFIGURE10.1\nCHAPTER OUTLINE\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 238,
+            "text": "224 10 • Biotechnology\nFIGURE10.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 239,
+            "text": "10.1 • Cloning and Genetic Engineering 225\nFIGURE10.3"
+        },
+        {
+            "page_num": 240,
+            "text": "226 10 • Biotechnology\nFIGURE10.4\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 241,
+            "text": "10.1 • Cloning and Genetic Engineering 227\nFIGURE10.5"
+        },
+        {
+            "page_num": 242,
+            "text": "228 10 • Biotechnology\nFIGURE10.6\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 243,
+            "text": "10.1 • Cloning and Genetic Engineering 229"
+        },
+        {
+            "page_num": 244,
+            "text": "230 10 • Biotechnology\nVISUAL CONNECTION\nFIGURE10.7\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 245,
+            "text": "10.2 • Biotechnology in Medicine and Agriculture 231\nLEARNING OBJECTIVES\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 246,
+            "text": "232 10 • Biotechnology\nFIGURE10.8\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 247,
+            "text": "10.2 • Biotechnology in Medicine and Agriculture 233\nFIGURE10.9\nFIGURE10.10"
+        },
+        {
+            "page_num": 248,
+            "text": "234 10 • Biotechnology\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 249,
+            "text": "10.3 • Genomics and Proteomics 235\nFIGURE10.11"
+        },
+        {
+            "page_num": 250,
+            "text": "236 10 • Biotechnology\nLINK TO LEARNING\nFIGURE10.12\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 251,
+            "text": "10.3 • Genomics and Proteomics 237"
+        },
+        {
+            "page_num": 252,
+            "text": "238 10 • Biotechnology\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 253,
+            "text": "10.3 • Genomics and Proteomics 239\nFIGURE10.13\nFIGURE10.14"
+        },
+        {
+            "page_num": 254,
+            "text": "240 10 • Biotechnology\nFIGURE10.15\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 255,
+            "text": "10.3 • Genomics and Proteomics 241\nFIGURE10.16"
+        },
+        {
+            "page_num": 256,
+            "text": "242 10 • Biotechnology\nFIGURE10.17\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 257,
+            "text": "10 • Key Terms 243"
+        },
+        {
+            "page_num": 258,
+            "text": "244 10 • Visual Connection Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 259,
+            "text": "10 • Critical Thinking Questions 245"
+        },
+        {
+            "page_num": 260,
+            "text": "246 10 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 261,
+            "text": "CHAPTER 11\nEvolution and Its Processes\nFIGURE11.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 262,
+            "text": "248 11 • Evolution and Its Processes\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 263,
+            "text": "11.1 • Discovering How Populations Change 249\nFIGURE11.2"
+        },
+        {
+            "page_num": 264,
+            "text": "250 11 • Evolution and Its Processes\nFIGURE11.3\nFIGURE11.4\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 265,
+            "text": "11.1 • Discovering How Populations Change 251\nFIGURE11.5"
+        },
+        {
+            "page_num": 266,
+            "text": "252 11 • Evolution and Its Processes\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 267,
+            "text": "11.1 • Discovering How Populations Change 253\nFIGURE11.6"
+        },
+        {
+            "page_num": 268,
+            "text": "254 11 • Evolution and Its Processes\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 269,
+            "text": "11.2 • Mechanisms of Evolution 255\nVISUAL CONNECTION\nFIGURE11.7\nFIGURE11.8"
+        },
+        {
+            "page_num": 270,
+            "text": "256 11 • Evolution and Its Processes\nLINK TO LEARNING\nFIGURE11.9\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 271,
+            "text": "11.3 • Evidence of Evolution 257\nFIGURE11.10\nFIGURE11.11"
+        },
+        {
+            "page_num": 272,
+            "text": "258 11 • Evolution and Its Processes\nLINK TO LEARNING\nFIGURE11.12\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 273,
+            "text": "11.4 • Speciation 259\nFIGURE11.13\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 274,
+            "text": "260 11 • Evolution and Its Processes\nFIGURE11.14\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 275,
+            "text": "11.4 • Speciation 261\nFIGURE11.15"
+        },
+        {
+            "page_num": 276,
+            "text": "262 11 • Evolution and Its Processes\nFIGURE11.16\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 277,
+            "text": "11.4 • Speciation 263\nFIGURE11.17\nFIGURE11.18"
+        },
+        {
+            "page_num": 278,
+            "text": "264 11 • Evolution and Its Processes\nFIGURE11.19\nLEARNING OBJECTIVES\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 279,
+            "text": "11.5 • Common Misconceptions about Evolution 265"
+        },
+        {
+            "page_num": 280,
+            "text": "266 11 • Evolution and Its Processes\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 281,
+            "text": "11.5 • Common Misconceptions about Evolution 267"
+        },
+        {
+            "page_num": 282,
+            "text": "268 11 • Key Terms\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 283,
+            "text": "11 • Visual Connection Questions 269"
+        },
+        {
+            "page_num": 284,
+            "text": "270 11 • Review Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 285,
+            "text": "11 • Critical Thinking Questions 271"
+        },
+        {
+            "page_num": 286,
+            "text": "272 11 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 287,
+            "text": "CHAPTER 12\nDiversity of Life\nFIGURE12.1\nCHAPTER OUTLINE\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 288,
+            "text": "274 12 • Diversity of Life\nFIGURE12.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 289,
+            "text": "12.1 • Organizing Life on Earth 275"
+        },
+        {
+            "page_num": 290,
+            "text": "276 12 • Diversity of Life\nVISUAL CONNECTION\nFIGURE12.3\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 291,
+            "text": "12.1 • Organizing Life on Earth 277\nFIGURE12.4\nFIGURE12.5\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 292,
+            "text": "278 12 • Diversity of Life\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 293,
+            "text": "12.2 • Determining Evolutionary Relationships 279\nFIGURE12.6"
+        },
+        {
+            "page_num": 294,
+            "text": "280 12 • Diversity of Life\nFIGURE12.7\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 295,
+            "text": "12.2 • Determining Evolutionary Relationships 281\nFIGURE12.8\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 296,
+            "text": "282 12 • Diversity of Life\nEVOLUTION CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 297,
+            "text": "12.2 • Determining Evolutionary Relationships 283\nVISUAL CONNECTION\nFIGURE12.9"
+        },
+        {
+            "page_num": 298,
+            "text": "284 12 • Diversity of Life\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 299,
+            "text": "12 • Key Terms 285"
+        },
+        {
+            "page_num": 300,
+            "text": "286 12 • Visual Connection Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 301,
+            "text": "CHAPTER 13\nDiversity of Microbes, Fungi, and\nProtists\nFIGURE13.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 302,
+            "text": "288 13 • Diversity of Microbes, Fungi, and Protists\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 303,
+            "text": "13.1 • Prokaryotic Diversity 289\nFIGURE13.2\nFIGURE13.3"
+        },
+        {
+            "page_num": 304,
+            "text": "290 13 • Diversity of Microbes, Fungi, and Protists\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 305,
+            "text": "13.1 • Prokaryotic Diversity 291\nFIGURE13.4\nFIGURE13.5"
+        },
+        {
+            "page_num": 306,
+            "text": "292 13 • Diversity of Microbes, Fungi, and Protists\nVISUAL CONNECTION\nFIGURE13.6\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 307,
+            "text": "13.1 • Prokaryotic Diversity 293\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 308,
+            "text": "294 13 • Diversity of Microbes, Fungi, and Protists\nLINK TO LEARNING\nFIGURE13.7\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 309,
+            "text": "13.1 • Prokaryotic Diversity 295\nFIGURE13.8\nCAREER CONNECTION"
+        },
+        {
+            "page_num": 310,
+            "text": "296 13 • Diversity of Microbes, Fungi, and Protists\nFIGURE13.9\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 311,
+            "text": "13.1 • Prokaryotic Diversity 297\nFIGURE13.10"
+        },
+        {
+            "page_num": 312,
+            "text": "298 13 • Diversity of Microbes, Fungi, and Protists\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 313,
+            "text": "13.2 • Eukaryotic Origins 299\nFIGURE13.11"
+        },
+        {
+            "page_num": 314,
+            "text": "300 13 • Diversity of Microbes, Fungi, and Protists\nFIGURE13.12\nLEARNING OBJECTIVES\nFIGURE13.13\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 315,
+            "text": "13.3 • Protists 301"
+        },
+        {
+            "page_num": 316,
+            "text": "302 13 • Diversity of Microbes, Fungi, and Protists\nFIGURE13.14\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 317,
+            "text": "13.3 • Protists 303\nFIGURE13.15"
+        },
+        {
+            "page_num": 318,
+            "text": "304 13 • Diversity of Microbes, Fungi, and Protists\nFIGURE13.16\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 319,
+            "text": "13.3 • Protists 305\nFIGURE13.17\nLINK TO LEARNING\nFIGURE13.18"
+        },
+        {
+            "page_num": 320,
+            "text": "306 13 • Diversity of Microbes, Fungi, and Protists\nFIGURE13.19\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 321,
+            "text": "13.4 • Fungi 307\nFIGURE13.20"
+        },
+        {
+            "page_num": 322,
+            "text": "308 13 • Diversity of Microbes, Fungi, and Protists\nFIGURE13.21\nFIGURE13.22\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 323,
+            "text": "13.4 • Fungi 309\nFIGURE13.23"
+        },
+        {
+            "page_num": 324,
+            "text": "310 13 • Diversity of Microbes, Fungi, and Protists\nFIGURE13.24\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 325,
+            "text": "13.4 • Fungi 311\nFIGURE13.25"
+        },
+        {
+            "page_num": 326,
+            "text": "312 13 • Diversity of Microbes, Fungi, and Protists\nFIGURE13.26\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 327,
+            "text": "13.4 • Fungi 313"
+        },
+        {
+            "page_num": 328,
+            "text": "314 13 • Diversity of Microbes, Fungi, and Protists\nFIGURE13.27\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 329,
+            "text": "13 • Key Terms 315"
+        },
+        {
+            "page_num": 330,
+            "text": "316 13 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 331,
+            "text": "13 • Visual Connection Questions 317"
+        },
+        {
+            "page_num": 332,
+            "text": "318 13 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 333,
+            "text": "CHAPTER 14\nDiversity of Plants\nFIGURE14.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 334,
+            "text": "320 14 • Diversity of Plants\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 335,
+            "text": "14.1 • The Plant Kingdom 321\nFIGURE14.2"
+        },
+        {
+            "page_num": 336,
+            "text": "322 14 • Diversity of Plants\nFIGURE14.3\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 337,
+            "text": "14.1 • The Plant Kingdom 323\nFIGURE14.4"
+        },
+        {
+            "page_num": 338,
+            "text": "324 14 • Diversity of Plants\nFIGURE14.5\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 339,
+            "text": "14.1 • The Plant Kingdom 325\nFIGURE14.6\nEVOLUTION CONNECTION"
+        },
+        {
+            "page_num": 340,
+            "text": "326 14 • Diversity of Plants\nFIGURE14.7\nFIGURE14.8\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 341,
+            "text": "14.2 • Seedless Plants 327\nFIGURE14.9"
+        },
+        {
+            "page_num": 342,
+            "text": "328 14 • Diversity of Plants\nFIGURE14.10\nFIGURE14.11\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 343,
+            "text": "14.2 • Seedless Plants 329\nFIGURE14.12"
+        },
+        {
+            "page_num": 344,
+            "text": "330 14 • Diversity of Plants\nFIGURE14.13\nFIGURE14.14\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 345,
+            "text": "14.2 • Seedless Plants 331\nFIGURE14.15\nFIGURE14.16"
+        },
+        {
+            "page_num": 346,
+            "text": "332 14 • Diversity of Plants\nFIGURE14.17\nLINK TO LEARNING\nCAREER CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 347,
+            "text": "14.3 • Seed Plants: Gymnosperms 333\nFIGURE14.18\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 348,
+            "text": "334 14 • Diversity of Plants\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 349,
+            "text": "14.3 • Seed Plants: Gymnosperms 335\nVISUAL CONNECTION\nFIGURE14.19\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 350,
+            "text": "336 14 • Diversity of Plants\nFIGURE14.20\nFIGURE14.21\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 351,
+            "text": "14.3 • Seed Plants: Gymnosperms 337\nFIGURE14.22"
+        },
+        {
+            "page_num": 352,
+            "text": "338 14 • Diversity of Plants\nFIGURE14.23\nLINK TO LEARNING\nLEARNING OBJECTIVES\nFIGURE14.24\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 353,
+            "text": "14.4 • Seed Plants: Angiosperms 339\nFIGURE14.25"
+        },
+        {
+            "page_num": 354,
+            "text": "340 14 • Diversity of Plants\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 355,
+            "text": "14.4 • Seed Plants: Angiosperms 341\nVISUAL CONNECTION\nFIGURE14.26"
+        },
+        {
+            "page_num": 356,
+            "text": "342 14 • Diversity of Plants\nFIGURE14.27\nFIGURE14.28\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 357,
+            "text": "14.4 • Seed Plants: Angiosperms 343\nFIGURE14.29"
+        },
+        {
+            "page_num": 358,
+            "text": "344 14 • Diversity of Plants\nFIGURE14.30\nCharacteristic Monocot Eudicot\nTABLE14.1\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 359,
+            "text": "14.4 • Seed Plants: Angiosperms 345\nCharacteristic Monocot Eudicot\nTABLE14.1\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 360,
+            "text": "346 14 • Diversity of Plants\nPlant Compound Application\nTABLE14.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 361,
+            "text": "14 • Key Terms 347"
+        },
+        {
+            "page_num": 362,
+            "text": "348 14 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 363,
+            "text": "14 • Review Questions 349"
+        },
+        {
+            "page_num": 364,
+            "text": "350 14 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 365,
+            "text": "CHAPTER 15\nDiversity of Animals\nFIGURE15.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 366,
+            "text": "352 15 • Diversity of Animals\nLEARNING OBJECTIVES\nFIGURE15.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 367,
+            "text": "15.1 • Features of the Animal Kingdom 353\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 368,
+            "text": "354 15 • Diversity of Animals\nVISUAL CONNECTION\nFIGURE15.3\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 369,
+            "text": "15.1 • Features of the Animal Kingdom 355\nFIGURE15.4\nLINK TO LEARNING\nFIGURE15.5"
+        },
+        {
+            "page_num": 370,
+            "text": "356 15 • Diversity of Animals\nFIGURE15.6\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 371,
+            "text": "15.2 • Sponges and Cnidarians 357\nFIGURE15.7\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 372,
+            "text": "358 15 • Diversity of Animals\nFIGURE15.8\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 373,
+            "text": "15.2 • Sponges and Cnidarians 359\nFIGURE15.9\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 374,
+            "text": "360 15 • Diversity of Animals\nFIGURE15.10\nFIGURE15.11\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 375,
+            "text": "15.2 • Sponges and Cnidarians 361\nFIGURE15.12"
+        },
+        {
+            "page_num": 376,
+            "text": "362 15 • Diversity of Animals\nFIGURE15.13\nLINK TO LEARNING\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 377,
+            "text": "15.3 • Flatworms, Nematodes, and Arthropods 363\nFIGURE15.14\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 378,
+            "text": "364 15 • Diversity of Animals\nFIGURE15.15\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 379,
+            "text": "15.3 • Flatworms, Nematodes, and Arthropods 365\nFIGURE15.16"
+        },
+        {
+            "page_num": 380,
+            "text": "366 15 • Diversity of Animals\nFIGURE15.17\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 381,
+            "text": "15.3 • Flatworms, Nematodes, and Arthropods 367\nLINK TO LEARNING\nFIGURE15.18"
+        },
+        {
+            "page_num": 382,
+            "text": "368 15 • Diversity of Animals\nFIGURE15.19\nFIGURE15.20\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 383,
+            "text": "15.3 • Flatworms, Nematodes, and Arthropods 369\nFIGURE15.21\nFIGURE15.22"
+        },
+        {
+            "page_num": 384,
+            "text": "370 15 • Diversity of Animals\nFIGURE15.23\nLINK TO LEARNING\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 385,
+            "text": "15.4 • Mollusks and Annelids 371\nVISUAL CONNECTION\nFIGURE15.24"
+        },
+        {
+            "page_num": 386,
+            "text": "372 15 • Diversity of Animals\nFIGURE15.25\nLINK TO LEARNING\nFIGURE15.26\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 387,
+            "text": "15.4 • Mollusks and Annelids 373\nFIGURE15.27"
+        },
+        {
+            "page_num": 388,
+            "text": "374 15 • Diversity of Animals\nFIGURE15.28\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 389,
+            "text": "15.4 • Mollusks and Annelids 375\nFIGURE15.29\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 390,
+            "text": "376 15 • Diversity of Animals\nFIGURE15.30\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 391,
+            "text": "15.5 • Echinoderms and Chordates 377\nFIGURE15.31\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 392,
+            "text": "378 15 • Diversity of Animals\nFIGURE15.32\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 393,
+            "text": "15.5 • Echinoderms and Chordates 379\nVISUAL CONNECTION\nFIGURE15.33\nFIGURE15.34"
+        },
+        {
+            "page_num": 394,
+            "text": "380 15 • Diversity of Animals\nFIGURE15.35\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 395,
+            "text": "15.6 • Vertebrates 381\nFIGURE15.36\nFIGURE15.37"
+        },
+        {
+            "page_num": 396,
+            "text": "382 15 • Diversity of Animals\nFIGURE15.38\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 397,
+            "text": "15.6 • Vertebrates 383\nFIGURE15.39"
+        },
+        {
+            "page_num": 398,
+            "text": "384 15 • Diversity of Animals\nFIGURE15.40\nLINK TO LEARNING\nFIGURE15.41\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 399,
+            "text": "15.6 • Vertebrates 385\nFIGURE15.42"
+        },
+        {
+            "page_num": 400,
+            "text": "386 15 • Diversity of Animals\nFIGURE15.43\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 401,
+            "text": "15.6 • Vertebrates 387\nFIGURE15.44"
+        },
+        {
+            "page_num": 402,
+            "text": "388 15 • Diversity of Animals\nFIGURE15.45\nFIGURE15.46\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 403,
+            "text": "15.6 • Vertebrates 389\nFIGURE15.47"
+        },
+        {
+            "page_num": 404,
+            "text": "390 15 • Key Terms\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 405,
+            "text": "15 • Key Terms 391"
+        },
+        {
+            "page_num": 406,
+            "text": "392 15 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 407,
+            "text": "15 • Chapter Summary 393"
+        },
+        {
+            "page_num": 408,
+            "text": "394 15 • Visual Connection Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 409,
+            "text": "15 • Critical Thinking Questions 395"
+        },
+        {
+            "page_num": 410,
+            "text": "396 15 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 411,
+            "text": "CHAPTER 16\nThe Body’s Systems\nFIGURE16.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 412,
+            "text": "398 16 • The Body’s Systems\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 413,
+            "text": "16.1 • Homeostasis and Osmoregulation 399\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 414,
+            "text": "400 16 • The Body’s Systems\nVISUAL CONNECTION\nFIGURE16.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 415,
+            "text": "16.1 • Homeostasis and Osmoregulation 401\nFIGURE16.3"
+        },
+        {
+            "page_num": 416,
+            "text": "402 16 • The Body’s Systems\nCAREER CONNECTION\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 417,
+            "text": "16.2 • Digestive System 403\nFIGURE16.4"
+        },
+        {
+            "page_num": 418,
+            "text": "404 16 • The Body’s Systems\nFIGURE16.5\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 419,
+            "text": "16.2 • Digestive System 405\nFIGURE16.6"
+        },
+        {
+            "page_num": 420,
+            "text": "406 16 • The Body’s Systems\nVISUAL CONNECTION\nFIGURE16.7\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 421,
+            "text": "16.2 • Digestive System 407\nFIGURE16.8\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 422,
+            "text": "408 16 • The Body’s Systems\nEVERYDAY CONNECTION\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 423,
+            "text": "16.3 • Circulatory and Respiratory Systems 409"
+        },
+        {
+            "page_num": 424,
+            "text": "410 16 • The Body’s Systems\nVISUAL CONNECTION\nFIGURE16.9\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 425,
+            "text": "16.3 • Circulatory and Respiratory Systems 411\nVISUAL CONNECTION\nFIGURE16.10"
+        },
+        {
+            "page_num": 426,
+            "text": "412 16 • The Body’s Systems\nFIGURE16.11\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 427,
+            "text": "16.3 • Circulatory and Respiratory Systems 413\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 428,
+            "text": "414 16 • The Body’s Systems\nFIGURE16.12\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 429,
+            "text": "16.4 • Endocrine System 415\nCAREER CONNECTION"
+        },
+        {
+            "page_num": 430,
+            "text": "416 16 • The Body’s Systems\nFIGURE16.13\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 431,
+            "text": "16.4 • Endocrine System 417"
+        },
+        {
+            "page_num": 432,
+            "text": "418 16 • The Body’s Systems\nEndocrine Associated\nEffect\nGland Hormones\nTABLE16.1\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 433,
+            "text": "16.4 • Endocrine System 419\nEndocrine Associated\nEffect\nGland Hormones\nTABLE16.1"
+        },
+        {
+            "page_num": 434,
+            "text": "420 16 • The Body’s Systems\nVISUAL CONNECTION\nFIGURE16.14\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 435,
+            "text": "16.5 • Musculoskeletal System 421\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 436,
+            "text": "422 16 • The Body’s Systems\nFIGURE16.15\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 437,
+            "text": "16.5 • Musculoskeletal System 423"
+        },
+        {
+            "page_num": 438,
+            "text": "424 16 • The Body’s Systems\nFIGURE16.16\nCAREER CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 439,
+            "text": "16.5 • Musculoskeletal System 425\nFIGURE16.17"
+        },
+        {
+            "page_num": 440,
+            "text": "426 16 • The Body’s Systems\nFIGURE16.18\nLINK TO LEARNING\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 441,
+            "text": "16.6 • Nervous System 427"
+        },
+        {
+            "page_num": 442,
+            "text": "428 16 • The Body’s Systems\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 443,
+            "text": "16.6 • Nervous System 429\nFIGURE16.19\nEVERYDAY CONNECTION"
+        },
+        {
+            "page_num": 444,
+            "text": "430 16 • The Body’s Systems\nFIGURE16.20\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 445,
+            "text": "16.6 • Nervous System 431\nFIGURE16.21\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 446,
+            "text": "432 16 • The Body’s Systems\nFIGURE16.22\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 447,
+            "text": "16.6 • Nervous System 433\nFIGURE16.23"
+        },
+        {
+            "page_num": 448,
+            "text": "434 16 • The Body’s Systems\nFIGURE16.24\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 449,
+            "text": "16.6 • Nervous System 435\nFIGURE16.25"
+        },
+        {
+            "page_num": 450,
+            "text": "436 16 • Key Terms\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 451,
+            "text": "16 • Key Terms 437"
+        },
+        {
+            "page_num": 452,
+            "text": "438 16 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 453,
+            "text": "16 • Chapter Summary 439"
+        },
+        {
+            "page_num": 454,
+            "text": "440 16 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 455,
+            "text": "16 • Visual Connection Questions 441"
+        },
+        {
+            "page_num": 456,
+            "text": "442 16 • Review Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 457,
+            "text": "16 • Critical Thinking Questions 443"
+        },
+        {
+            "page_num": 458,
+            "text": "444 16 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 459,
+            "text": "CHAPTER 17\nThe Immune System and Disease\nFIGURE17.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 460,
+            "text": "446 17 • The Immune System and Disease\nLEARNING OBJECTIVES\nFIGURE17.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 461,
+            "text": "17.1 • Viruses 447\nFIGURE17.3\nFIGURE17.4"
+        },
+        {
+            "page_num": 462,
+            "text": "448 17 • The Immune System and Disease\nVISUAL CONNECTION\nFIGURE17.5\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 463,
+            "text": "17.1 • Viruses 449\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 464,
+            "text": "450 17 • The Immune System and Disease\nVISUAL CONNECTION\nFIGURE17.6\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 465,
+            "text": "17.1 • Viruses 451\nFIGURE17.7"
+        },
+        {
+            "page_num": 466,
+            "text": "452 17 • The Immune System and Disease\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 467,
+            "text": "17.2 • Innate Immunity 453\nLEARNING OBJECTIVES\nFIGURE17.8"
+        },
+        {
+            "page_num": 468,
+            "text": "454 17 • The Immune System and Disease\nFIGURE17.9\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 469,
+            "text": "17.2 • Innate Immunity 455\nLINK TO LEARNING\nFIGURE17.10\nFIGURE17.11"
+        },
+        {
+            "page_num": 470,
+            "text": "456 17 • The Immune System and Disease\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 471,
+            "text": "17.3 • Adaptive Immunity 457\nFIGURE17.12\nFIGURE17.13"
+        },
+        {
+            "page_num": 472,
+            "text": "458 17 • The Immune System and Disease\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 473,
+            "text": "17.3 • Adaptive Immunity 459\nFIGURE17.14"
+        },
+        {
+            "page_num": 474,
+            "text": "460 17 • The Immune System and Disease\nFIGURE17.15\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 475,
+            "text": "17.3 • Adaptive Immunity 461\nFIGURE17.16"
+        },
+        {
+            "page_num": 476,
+            "text": "462 17 • The Immune System and Disease\nVISUAL CONNECTION\nFIGURE17.17\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 477,
+            "text": "17.3 • Adaptive Immunity 463\nFIGURE17.18"
+        },
+        {
+            "page_num": 478,
+            "text": "464 17 • The Immune System and Disease\nFIGURE17.19\nFIGURE17.20\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 479,
+            "text": "17.4 • Disruptions in the Immune System 465\nLEARNING OBJECTIVES\nFIGURE17.21"
+        },
+        {
+            "page_num": 480,
+            "text": "466 17 • The Immune System and Disease\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 481,
+            "text": "17.4 • Disruptions in the Immune System 467\nFIGURE17.22\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 482,
+            "text": "468 17 • The Immune System and Disease\nFIGURE17.23\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 483,
+            "text": "17 • Key Terms 469"
+        },
+        {
+            "page_num": 484,
+            "text": "470 17 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 485,
+            "text": "17 • Visual Connection Questions 471"
+        },
+        {
+            "page_num": 486,
+            "text": "472 17 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 487,
+            "text": "CHAPTER 18\nAnimal Reproduction and Development\nFIGURE18.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 488,
+            "text": "474 18 • Animal Reproduction and Development\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 489,
+            "text": "18.1 • How Animals Reproduce 475\nFIGURE18.2\nFIGURE18.3\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 490,
+            "text": "476 18 • Animal Reproduction and Development\nFIGURE18.4\nFIGURE18.5\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 491,
+            "text": "18.1 • How Animals Reproduce 477"
+        },
+        {
+            "page_num": 492,
+            "text": "478 18 • Animal Reproduction and Development\nFIGURE18.6\nFIGURE18.7\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 493,
+            "text": "18.2 • Development and Organogenesis 479\nFIGURE18.8\nFIGURE18.9"
+        },
+        {
+            "page_num": 494,
+            "text": "480 18 • Animal Reproduction and Development\nLINK TO LEARNING\nFIGURE18.10\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 495,
+            "text": "18.3 • Human Reproduction 481\nFIGURE18.11"
+        },
+        {
+            "page_num": 496,
+            "text": "482 18 • Animal Reproduction and Development\nVISUAL CONNECTION\nFIGURE18.12\nOrgan Location Function\nTABLE18.1\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 497,
+            "text": "18.3 • Human Reproduction 483\nFIGURE18.13"
+        },
+        {
+            "page_num": 498,
+            "text": "484 18 • Animal Reproduction and Development\nOrgan Location Function\nTABLE18.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 499,
+            "text": "18.3 • Human Reproduction 485\nFIGURE18.14\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 500,
+            "text": "486 18 • Animal Reproduction and Development\nFIGURE18.15\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 501,
+            "text": "18.3 • Human Reproduction 487\nFIGURE18.16"
+        },
+        {
+            "page_num": 502,
+            "text": "488 18 • Animal Reproduction and Development\nVISUAL CONNECTION\nFIGURE18.17\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 503,
+            "text": "18.3 • Human Reproduction 489\nCAREER CONNECTION"
+        },
+        {
+            "page_num": 504,
+            "text": "490 18 • Animal Reproduction and Development\nFIGURE18.18\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 505,
+            "text": "18 • Key Terms 491"
+        },
+        {
+            "page_num": 506,
+            "text": "492 18 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 507,
+            "text": "18 • Visual Connection Questions 493"
+        },
+        {
+            "page_num": 508,
+            "text": "494 18 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 509,
+            "text": "CHAPTER 19\nPopulation and Community Ecology\nFIGURE19.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 510,
+            "text": "496 19 • Population and Community Ecology\nLEARNING OBJECTIVES\nVISUAL CONNECTION\nFIGURE19.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 511,
+            "text": "19.1 • Population Demographics and Dynamics 497"
+        },
+        {
+            "page_num": 512,
+            "text": "498 19 • Population and Community Ecology\nFIGURE19.3\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 513,
+            "text": "19.1 • Population Demographics and Dynamics 499\nA B C D E\nNumber dying Number surviving at Mortality rate per\nAge Life expectancy or mean\nin age interval beginning of age 1000 alive at\ninterval lifetime remaining to those\nout of 1000 interval out of 1000 beginning of age\n(years) attaining age interval\nborn born interval\nTABLE19.1"
+        },
+        {
+            "page_num": 514,
+            "text": "500 19 • Population and Community Ecology\nFIGURE19.4\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 515,
+            "text": "19.2 • Population Growth and Regulation 501"
+        },
+        {
+            "page_num": 516,
+            "text": "502 19 • Population and Community Ecology\nFIGURE19.5\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 517,
+            "text": "19.2 • Population Growth and Regulation 503\nVISUAL CONNECTION\nFIGURE19.6"
+        },
+        {
+            "page_num": 518,
+            "text": "504 19 • Population and Community Ecology\nFIGURE19.7\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 519,
+            "text": "19.2 • Population Growth and Regulation 505\nEVOLUTION CONNECTION\nFIGURE19.8"
+        },
+        {
+            "page_num": 520,
+            "text": "506 19 • Population and Community Ecology\nLEARNING OBJECTIVES\nFIGURE19.9\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 521,
+            "text": "19.3 • The Human Population 507\nFIGURE19.10\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 522,
+            "text": "508 19 • Population and Community Ecology\nVISUAL CONNECTION\nFIGURE19.11\nFIGURE19.12\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 523,
+            "text": "19.4 • Community Ecology 509\nLINK TO LEARNING\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 524,
+            "text": "510 19 • Population and Community Ecology\nFIGURE19.13\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 525,
+            "text": "19.4 • Community Ecology 511\nFIGURE19.14\nFIGURE19.15"
+        },
+        {
+            "page_num": 526,
+            "text": "512 19 • Population and Community Ecology\nFIGURE19.16\nFIGURE19.17\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 527,
+            "text": "19.4 • Community Ecology 513\nFIGURE19.18\nLINK TO LEARNING\nFIGURE19.19"
+        },
+        {
+            "page_num": 528,
+            "text": "514 19 • Population and Community Ecology\nFIGURE19.20\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 529,
+            "text": "19.4 • Community Ecology 515\nFIGURE19.21\nFIGURE19.22"
+        },
+        {
+            "page_num": 530,
+            "text": "516 19 • Population and Community Ecology\nLINK TO LEARNING\nFIGURE19.23\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 531,
+            "text": "19.4 • Community Ecology 517\nFIGURE19.24\nFIGURE19.25\nEVERYDAY CONNECTION"
+        },
+        {
+            "page_num": 532,
+            "text": "518 19 • Population and Community Ecology\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 533,
+            "text": "19.4 • Community Ecology 519\nFIGURE19.26\nFIGURE19.27"
+        },
+        {
+            "page_num": 534,
+            "text": "520 19 • Key Terms\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 535,
+            "text": "19 • Chapter Summary 521"
+        },
+        {
+            "page_num": 536,
+            "text": "522 19 • Review Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 537,
+            "text": "19 • Critical Thinking Questions 523"
+        },
+        {
+            "page_num": 538,
+            "text": "524 19 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 539,
+            "text": "CHAPTER 20\nEcosystems and the Biosphere\nFIGURE20.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 540,
+            "text": "526 20 • Ecosystems and the Biosphere\nLEARNING OBJECTIVES\nFIGURE20.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 541,
+            "text": "20.1 • Waterford's Energy Flow through Ecosystems 527\nFIGURE20.3"
+        },
+        {
+            "page_num": 542,
+            "text": "528 20 • Ecosystems and the Biosphere\nFIGURE20.4\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 543,
+            "text": "20.1 • Waterford's Energy Flow through Ecosystems 529\nFIGURE20.5"
+        },
+        {
+            "page_num": 544,
+            "text": "530 20 • Ecosystems and the Biosphere\nFIGURE20.6\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 545,
+            "text": "20.1 • Waterford's Energy Flow through Ecosystems 531\nFIGURE20.7"
+        },
+        {
+            "page_num": 546,
+            "text": "532 20 • Ecosystems and the Biosphere\nFIGURE20.8\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 547,
+            "text": "20.2 • Biogeochemical Cycles 533\nLEARNING OBJECTIVES\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 548,
+            "text": "534 20 • Ecosystems and the Biosphere\nFIGURE20.9\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 549,
+            "text": "20.2 • Biogeochemical Cycles 535\nFIGURE20.10"
+        },
+        {
+            "page_num": 550,
+            "text": "536 20 • Ecosystems and the Biosphere\nFIGURE20.11\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 551,
+            "text": "20.2 • Biogeochemical Cycles 537"
+        },
+        {
+            "page_num": 552,
+            "text": "538 20 • Ecosystems and the Biosphere\nVISUAL CONNECTION\nFIGURE20.12\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 553,
+            "text": "20.2 • Biogeochemical Cycles 539\nFIGURE20.13"
+        },
+        {
+            "page_num": 554,
+            "text": "540 20 • Ecosystems and the Biosphere\nFIGURE20.14\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 555,
+            "text": "20.2 • Biogeochemical Cycles 541\nCAREER CONNECTION\nFIGURE20.15"
+        },
+        {
+            "page_num": 556,
+            "text": "542 20 • Ecosystems and the Biosphere\nFIGURE20.16\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 557,
+            "text": "20.3 • Terrestrial Biomes 543\nFIGURE20.17\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 558,
+            "text": "544 20 • Ecosystems and the Biosphere\nFIGURE20.18\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 559,
+            "text": "20.3 • Terrestrial Biomes 545\nFIGURE20.19\nFIGURE20.20"
+        },
+        {
+            "page_num": 560,
+            "text": "546 20 • Ecosystems and the Biosphere\nFIGURE20.21\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 561,
+            "text": "20.3 • Terrestrial Biomes 547\nFIGURE20.22\nFIGURE20.23"
+        },
+        {
+            "page_num": 562,
+            "text": "548 20 • Ecosystems and the Biosphere\nFIGURE20.24\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 563,
+            "text": "20.3 • Terrestrial Biomes 549\nFIGURE20.25"
+        },
+        {
+            "page_num": 564,
+            "text": "550 20 • Ecosystems and the Biosphere\nFIGURE20.26\nLINK TO LEARNING\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 565,
+            "text": "20.4 • Aquatic and Marine Biomes 551\nFIGURE20.27"
+        },
+        {
+            "page_num": 566,
+            "text": "552 20 • Ecosystems and the Biosphere\nVISUAL CONNECTION\nFIGURE20.28\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 567,
+            "text": "20.4 • Aquatic and Marine Biomes 553\nLINK TO LEARNING\nFIGURE20.29"
+        },
+        {
+            "page_num": 568,
+            "text": "554 20 • Ecosystems and the Biosphere\nEVOLUTION CONNECTION\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 569,
+            "text": "20.4 • Aquatic and Marine Biomes 555\nFIGURE20.30"
+        },
+        {
+            "page_num": 570,
+            "text": "556 20 • Ecosystems and the Biosphere\nFIGURE20.31\nFIGURE20.32\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 571,
+            "text": "20.4 • Aquatic and Marine Biomes 557\nFIGURE20.33"
+        },
+        {
+            "page_num": 572,
+            "text": "558 20 • Ecosystems and the Biosphere\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 573,
+            "text": "20 • Key Terms 559"
+        },
+        {
+            "page_num": 574,
+            "text": "560 20 • Chapter Summary\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 575,
+            "text": "20 • Visual Connection Questions 561"
+        },
+        {
+            "page_num": 576,
+            "text": "562 20 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 577,
+            "text": "CHAPTER 21\nConservation and Biodiversity\nFIGURE21.1\nCHAPTER OUTLINE"
+        },
+        {
+            "page_num": 578,
+            "text": "564 21 • Conservation and Biodiversity\nLEARNING OBJECTIVES\nFIGURE21.2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 579,
+            "text": "21.1 • Importance of Biodiversity 565"
+        },
+        {
+            "page_num": 580,
+            "text": "566 21 • Conservation and Biodiversity\nFIGURE21.3\nSource: Groombridge and\nSource: Mora et al 2011 Source: Chapman 2009\nJenkins 2002\nTABLE21.1\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 581,
+            "text": "21.1 • Importance of Biodiversity 567\nCAREER CONNECTION"
+        },
+        {
+            "page_num": 582,
+            "text": "568 21 • Conservation and Biodiversity\nFIGURE21.4\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 583,
+            "text": "21.1 • Importance of Biodiversity 569\nFIGURE21.5"
+        },
+        {
+            "page_num": 584,
+            "text": "570 21 • Conservation and Biodiversity\nVISUAL CONNECTION\nFIGURE21.6\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 585,
+            "text": "21.2 • Threats to Biodiversity 571\nLINK TO LEARNING\nLEARNING OBJECTIVES"
+        },
+        {
+            "page_num": 586,
+            "text": "572 21 • Conservation and Biodiversity\nFIGURE21.7\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 587,
+            "text": "21.2 • Threats to Biodiversity 573\nFIGURE21.8\nEVERYDAY CONNECTION"
+        },
+        {
+            "page_num": 588,
+            "text": "574 21 • Conservation and Biodiversity\nLINK TO LEARNING\nLINK TO LEARNING\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 589,
+            "text": "21.2 • Threats to Biodiversity 575\nLINK TO LEARNING\nFIGURE21.9"
+        },
+        {
+            "page_num": 590,
+            "text": "576 21 • Conservation and Biodiversity\nFIGURE21.10\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 591,
+            "text": "21.2 • Threats to Biodiversity 577\nFIGURE21.11"
+        },
+        {
+            "page_num": 592,
+            "text": "578 21 • Conservation and Biodiversity\nFIGURE21.12\nLEARNING OBJECTIVES\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 593,
+            "text": "21.3 • Preserving Biodiversity 579\nFIGURE21.13\nFIGURE21.14"
+        },
+        {
+            "page_num": 594,
+            "text": "580 21 • Conservation and Biodiversity\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 595,
+            "text": "21.3 • Preserving Biodiversity 581\nFIGURE21.15\nLINK TO LEARNING"
+        },
+        {
+            "page_num": 596,
+            "text": "582 21 • Conservation and Biodiversity\nFIGURE21.16\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 597,
+            "text": "21.3 • Preserving Biodiversity 583\nFIGURE21.17"
+        },
+        {
+            "page_num": 598,
+            "text": "584 21 • Conservation and Biodiversity\nLINK TO LEARNING\nFIGURE21.18\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 599,
+            "text": "21.3 • Preserving Biodiversity 585\nFIGURE21.19"
+        },
+        {
+            "page_num": 600,
+            "text": "586 21 • Key Terms\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 601,
+            "text": "21 • Visual Connection Questions 587"
+        },
+        {
+            "page_num": 602,
+            "text": "588 21 • Critical Thinking Questions\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 603,
+            "text": "A • The Periodic Table of Elements 589\nFIGUREA1"
+        },
+        {
+            "page_num": 604,
+            "text": "590 A • The Periodic Table of Elements\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 605,
+            "text": "B • Geological Time 591\nFIGUREB1"
+        },
+        {
+            "page_num": 606,
+            "text": "592 B • Geological Time\nFIGUREB2\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 607,
+            "text": "C • Measurements and the Metric System 593\nApproximate Standard\nMeasurement Unit Abbreviation Metric Equivalent\nEquivalent\nTABLEC1"
+        },
+        {
+            "page_num": 608,
+            "text": "594 C • Measurements and the Metric System\nApproximate Standard\nMeasurement Unit Abbreviation Metric Equivalent\nEquivalent\nTABLEC1\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 609,
+            "text": "Index 595\nA\nC\nB"
+        },
+        {
+            "page_num": 610,
+            "text": "596 Index\nD\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 611,
+            "text": "Index 597\nE\nF\nG\nH"
+        },
+        {
+            "page_num": 612,
+            "text": "598 Index\nM\nJ\nK\nL\nI\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 613,
+            "text": "Index 599\nP\nO\nN"
+        },
+        {
+            "page_num": 614,
+            "text": "600 Index\nQ\nR\nS\nAccess for free at openstax.org"
+        },
+        {
+            "page_num": 615,
+            "text": "Index 601\nV\nW\nX\nY\nT\nZ\nU"
+        }
+    ]
+}
